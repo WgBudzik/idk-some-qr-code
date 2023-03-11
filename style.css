@@ -1,0 +1,38 @@
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  background: grey;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  text-align: center;
+}
+
+.box {
+  height: 400px;
+  width: 250px;
+  border-radius: 25px;
+  background: hsl(0, 0%, 100%);
+  padding: 10px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+}
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 15px;
+  text-align: center;
+}
